@@ -3,7 +3,7 @@
  * Author: John Mar Rafael
  *
  * Created on February 26, 2016, 5:40 P.M.
- * Purpose: Our First Program
+ * Purpose: Calculates subtotal, total tax, and total pruchase of 5 items
  */
 
 //system libraries

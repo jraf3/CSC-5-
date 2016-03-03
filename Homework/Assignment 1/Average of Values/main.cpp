@@ -3,7 +3,7 @@
  * Author: John Mar Rafael
  *
  * Created on February 26, 2016, 5:20 P.M.
- * Purpose: Our First Program
+ * Purpose: Find the Average of 5 Numbers
  */
 
 //system libraries

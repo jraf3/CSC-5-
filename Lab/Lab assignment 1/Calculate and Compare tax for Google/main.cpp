@@ -2,7 +2,7 @@
  * File:   main.cpp
  * Author: John Mar Rafael
  * Created on March 2, 2016, 10:11 AM
- * This progaram will calculate how much money Google could save if they moved-
+ * This program will calculate how much money Google could save if they moved-
  * to Ireland
  */
 

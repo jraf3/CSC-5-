@@ -3,7 +3,7 @@
  * Author: John Mar Rafael
  *
  * Created on February 26, 2016, 6:07 P.M.
- * Purpose: Our First Program
+ * Purpose: Calculates a Cars' MPG
  */
 
 //system libraries

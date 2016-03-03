@@ -3,7 +3,7 @@
  * Author: John Mar Rafael
  *
  * Created on February 26, 2016, 4:30 P.M.
- * Purpose: Our First Program
+ * Purpose: Calculates Sum of 50 + 150
  */
 
 //system libraries

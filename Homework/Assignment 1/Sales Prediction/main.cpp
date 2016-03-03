@@ -3,7 +3,7 @@
  * Author: John Mar Rafael
  *
  * Created on February 26, 2016, 4:45 P.M.
- * Purpose: Our First Program
+ * Purpose: Calculates the percentage the East Coast sales division generates
  */
 
 //system libraries

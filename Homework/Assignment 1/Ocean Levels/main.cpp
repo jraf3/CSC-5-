@@ -3,7 +3,7 @@
  * Author: John Mar Rafael
  *
  * Created on February 26, 2016, 5:40 P.M.
- * Purpose: Our First Program
+ * Purpose: Finding how much the Ocean level will increase after 5, 7, and 10 years
  */
 
 //system libraries

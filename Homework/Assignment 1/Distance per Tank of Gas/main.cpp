@@ -3,7 +3,7 @@
  * Author: John Mar Rafael
  *
  * Created on February 26, 2016, 6:15 P.M.
- * Purpose: Our First Program
+ * Purpose: Finding Distance per Tank of Gas
  */
 
 //system libraries
