@@ -21,16 +21,12 @@ int main(int argc, char** argv) {
     cout << "ASCII codes for 0-127" << endl << endl;
     
     //Loop
-    while (i<=127){
-        cout << static_cast<char>(i) << endl;
-        i++;
+    for (i=0; i<127; i++){
+          cout << static_cast<char>(i) << ' '; //outputs ASCII codes and spaces
+          if ((i+1)%16==0) //checks if character is divisible by 16
+          cout << endl;    //starts new line if previous line is true
+       
     }
-    
-    // 1-10
-    // for(int i=0; i<10; i++)
-    // if( (i+1)%16==0  ) cout << endl;
-    // 1 2 3 4 5
-    // 6 7 8 9 10
     return 0;
 }
 
