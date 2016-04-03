@@ -15,13 +15,14 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     //Declare Variables
-    unsigned int speed; //Input MPH
     unsigned int hour; //Input hours traveled
-    unsigned int dist; //distance traveled
     unsigned int sHour = 1; //starting hour
+    float dist; //distance traveled - MPH
+    float hDist; //distance per hour
+    
     //Prompt user for input
     cout << "What is the speed of the vehicle in MPH? ";
-    cin >> speed;
+    cin >> dist;
     cout << endl;
     cout << "How many hours has it traveled? ";
     cin >> hour;
@@ -32,10 +33,14 @@ int main(int argc, char** argv) {
     cout << "---------------------------------" << endl;
     
     //Calculate distance traveled
-    distance = speed * time;
+//    distance = speed * time;
     
     //while loop
-    while (hour > sHour){
+    while (hour >= sHour){
+        hDist = sHour * dist;
+        cout << setprecision(2) << fixed;
+        cout << sHour << setw(10) << hDist << endl;
+        sHour++;
         
     }
     return 0;
